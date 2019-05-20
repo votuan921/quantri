@@ -2,9 +2,10 @@
 ## 1.Giới thiệu:
     Dự án thử nghiệm và ứng dụng Qbots
 __Môn học__: Quản trị dự án hệ nhúng theo chuẩn kỹ năng ITSS  
+__Học kỳ__: 20182
 __Giáo viên__: Nguyễn Đức Tiến  
 __Nhóm__: 2  
-__Thành viên__:  
+__Thành viên__:  **[HEDSPI AS.K60]**
 * Nguyễn Hoàng Dũng
 * Vũ Công Duy
 * Phạm Minh Khang
@@ -19,7 +20,7 @@ Các ứng dụng liên quan:
 * Mobile App: ứng dụng cài đặt cho điện thoại để điều khiển bluetooth
 * WeMake: ứng dụng WeMake để viết, sửa và tải code vào Qbot bằng giao diện đồ họa cùng các ví dụ từ nhà sản xuất 
 ### docs:
-Báo cáo Final Report về dự án của nhóm đã thực hiện 
+Báo cáo Final Report về dự án của nhóm đã thực hiện và Slide thuyết trình
 ### references:  
 Các tài liệu liên quan về Qbot và template báo cáo 
 ## 3. Hướng dẫn cài đặt 
