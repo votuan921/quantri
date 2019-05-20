@@ -2,10 +2,11 @@
 ## 1.Giới thiệu:
     Dự án thử nghiệm và ứng dụng Qbots
 __Môn học__: Quản trị dự án hệ nhúng theo chuẩn kỹ năng ITSS  
-__Học kỳ__: 20182
-__Giáo viên__: Nguyễn Đức Tiến  
+__Học kỳ__: 20182  
+__Giảng viên__: ThS.Nguyễn Đức Tiến  
 __Nhóm__: 2  
-__Thành viên__:  **[HEDSPI AS.K60]**
+__Thành viên__:   
+**[HEDSPI AS.K60] Đại học Bách Khoa Hà Nội**
 * Nguyễn Hoàng Dũng
 * Vũ Công Duy
 * Phạm Minh Khang
