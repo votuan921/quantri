@@ -28,9 +28,9 @@ matrixLed.setBrightness(6);
 rgbLED.show();
   bluetooth.setName("QbotTuan");
   friction1=0;
-  friction2=8;
+  friction2=0;
   speed1=50;
-  speed2=20;
+  speed2=25;
   turn=1;
   state=0;
 
