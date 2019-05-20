@@ -12,7 +12,7 @@
 #define MAX_DETECTABLE_DISTANCE 50    // Khoảng cách lớn nhất mà xe có thể nhận diện vật thể
 #define TURN_ANGLE 90                 // Góc quay xe để tìm kiếm vật khi mất dấu
 #define FRICTION1 0
-#define FRICTION2 8
+#define FRICTION2 0
  
 WMDCMotor motor1(8);                  // Bánh xe 1
 WMDCMotor motor2(7);                  // Bánh xe 2
